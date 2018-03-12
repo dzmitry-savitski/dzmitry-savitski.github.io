@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Java socket web shell from Controller or Servlet"
-date: 2018-03-12 14:06:06
+date: 2018-03-04 14:06:06
 tags: java webshell
 description: Turn Java Servlet or Spring MVC controller into interactive web shell
 comments: true
