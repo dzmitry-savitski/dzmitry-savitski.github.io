@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Doqnload DVIA solutions"
+title: "Download DVIA solutions"
 date: 2018-04-02 16:06:06
 tags: dvia
 description: Download the complete list of Damn Vulnerable iOS Application (DVIA) solutions
