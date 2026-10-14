@@ -51,3 +51,4 @@ kramdown:
   hard_wrap: true
 
 exclude: ['README.md', 'LICENSE']
+include: ['.well-known']   # publish Tesla Fleet public key
